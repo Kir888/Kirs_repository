@@ -1,0 +1,5 @@
+a = (2,3,5,7,10,11,0,1,5,4,6)
+list = list(a)
+list.sort()
+tuple = tuple(list)
+print(tuple)

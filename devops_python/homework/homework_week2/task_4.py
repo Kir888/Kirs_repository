@@ -1,0 +1,10 @@
+print("Enter a song")
+song = input()
+print(song[0])
+print(song[-1])
+print(len(song) -1)
+print(song.find("k"))
+print(song[3])
+print(song.upper())
+print(song.lower())
+

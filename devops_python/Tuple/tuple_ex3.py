@@ -1,0 +1,5 @@
+a = (2,3,5,6,19,6,7)
+b = list(a)
+b.sort()
+f = tuple(b)
+print(f)
